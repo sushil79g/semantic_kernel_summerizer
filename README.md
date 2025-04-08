@@ -1,0 +1,1 @@
+Summarization using semantic kernel and ollama model
